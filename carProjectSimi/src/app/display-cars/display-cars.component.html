@@ -1,0 +1,61 @@
+<div class="display-container">
+  <header class="page-header">
+    <h1>רכבים זמינים</h1>
+    <p>מצא את הרכב המושלם עבורך בקליק אחד</p>
+  </header>
+
+  <section class="date-picker-section filter-card">
+    <h3>בחר תאריכי השכרה:</h3>
+    <div class="inputs-wrapper">
+      <div class="input-group">
+        <label>תאריך התחלה:</label>
+        <input type="date" [(ngModel)]="startDate">
+      </div>
+      <div class="input-group">
+        <label>תאריך סיום:</label>
+        <input type="date" [(ngModel)]="endDate">
+      </div>
+      <button class="search-btn" (click)="searchAvailableCars()" [disabled]="!startDate || !endDate">
+        חפש רכבים פנויים
+      </button>
+    </div>
+  </section>
+
+  <section class="filters-section" *ngIf="datesSelected">
+    <div class="secondary-filters filter-card">
+      <div class="filter-main">
+        <select class="styled-select" [(ngModel)]="selectedFilter" (change)="onFilterChange()">
+          <option value="">סנן את התוצאות לפי...</option>
+          <option value="seats">מספר מושבים</option>
+          <option value="price">מחיר מקסימלי</option>
+          <option value="level">רמת רכב</option>
+        </select>
+      </div>
+
+      <div class="dynamic-inputs" *ngIf="selectedFilter">
+        <div class="input-group" *ngIf="selectedFilter === 'seats'">
+          <input type="number" [(ngModel)]="selectedSeats" (input)="applyFilters()" placeholder="כמה מושבים?">
+        </div>
+
+        <div class="input-group" *ngIf="selectedFilter === 'price'">
+          <input type="number" [(ngModel)]="maxPrice" (input)="applyFilters()" placeholder="תקציב מקסימלי (₪)">
+        </div>
+
+        <div class="input-group" *ngIf="selectedFilter === 'level'">
+          <input type="number" [(ngModel)]="selectedLevel" (input)="applyFilters()" placeholder="הקלד רמה (1-5)">
+        </div>
+      </div>
+
+      <button class="reset-link" (click)="resetSecondaryFilters()" *ngIf="selectedFilter">איפוס סינון</button>
+    </div>
+  </section>
+
+  <div class="cars-grid" *ngIf="datesSelected">
+    <app-cars 
+      *ngFor="let car of filteredCars" 
+      [car]="car" 
+      [selectedStart]="startDate" 
+      [selectedEnd]="endDate">
+    </app-cars>
+  </div>
+</div>

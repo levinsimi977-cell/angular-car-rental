@@ -1,0 +1,68 @@
+T:\Group B\Angular\סימי לוין\CarsSimi\DAL\bin\Debug\CarsDB.mdf
+T:\Group B\Angular\סימי לוין\CarsSimi\DAL\bin\Debug\CarsDB_log.ldf
+T:\Group B\Angular\סימי לוין\CarsSimi\DAL\bin\Debug\DAL.dll.config
+T:\Group B\Angular\סימי לוין\CarsSimi\DAL\bin\Debug\DAL.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\DAL\bin\Debug\DAL.pdb
+T:\Group B\Angular\סימי לוין\CarsSimi\DAL\bin\Debug\EntityFramework.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\DAL\bin\Debug\EntityFramework.SqlServer.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\DAL\bin\Debug\EntityFramework.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\DAL\bin\Debug\EntityFramework.SqlServer.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+T:\Group B\Angular\סימי לוין\CarsSimi\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+T:\Group B\Angular\סימי לוין\CarsSimi\DAL\obj\Debug\DAL.csproj.Up2Date
+T:\Group B\Angular\סימי לוין\CarsSimi\DAL\obj\Debug\DAL.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\DAL\obj\Debug\DAL.pdb
+T:\Group B\Angular\Teacher\CarsSimi\DAL\bin\Debug\CarsDB.mdf
+T:\Group B\Angular\Teacher\CarsSimi\DAL\bin\Debug\CarsDB_log.ldf
+T:\Group B\Angular\Teacher\CarsSimi\DAL\bin\Debug\DAL.dll.config
+T:\Group B\Angular\Teacher\CarsSimi\DAL\bin\Debug\DAL.dll
+T:\Group B\Angular\Teacher\CarsSimi\DAL\bin\Debug\DAL.pdb
+T:\Group B\Angular\Teacher\CarsSimi\DAL\bin\Debug\EntityFramework.dll
+T:\Group B\Angular\Teacher\CarsSimi\DAL\bin\Debug\EntityFramework.SqlServer.dll
+T:\Group B\Angular\Teacher\CarsSimi\DAL\bin\Debug\EntityFramework.xml
+T:\Group B\Angular\Teacher\CarsSimi\DAL\bin\Debug\EntityFramework.SqlServer.xml
+T:\Group B\Angular\Teacher\CarsSimi\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+T:\Group B\Angular\Teacher\CarsSimi\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+T:\Group B\Angular\Teacher\CarsSimi\DAL\obj\Debug\DAL.csproj.Up2Date
+T:\Group B\Angular\Teacher\CarsSimi\DAL\obj\Debug\DAL.dll
+T:\Group B\Angular\Teacher\CarsSimi\DAL\obj\Debug\DAL.pdb
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\DAL\bin\Debug\CarsDB.mdf
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\DAL\bin\Debug\CarsDB_log.ldf
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\DAL\bin\Debug\DAL.dll.config
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\DAL\bin\Debug\DAL.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\DAL\bin\Debug\DAL.pdb
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\DAL\bin\Debug\EntityFramework.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\DAL\bin\Debug\EntityFramework.SqlServer.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\DAL\bin\Debug\EntityFramework.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\DAL\bin\Debug\EntityFramework.SqlServer.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\DAL\obj\Debug\DAL.csproj.Up2Date
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\DAL\obj\Debug\DAL.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\DAL\obj\Debug\DAL.pdb
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\DAL\bin\Debug\CarsDB.mdf
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\DAL\bin\Debug\CarsDB_log.ldf
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\DAL\bin\Debug\DAL.dll.config
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\DAL\bin\Debug\DAL.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\DAL\bin\Debug\DAL.pdb
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\DAL\bin\Debug\EntityFramework.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\DAL\bin\Debug\EntityFramework.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\DAL\obj\Debug\DAL.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\DAL\obj\Debug\DAL.pdb
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\DAL\bin\Debug\DAL.dll.config
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\DAL\bin\Debug\DAL.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\DAL\bin\Debug\DAL.pdb
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\DAL\bin\Debug\EntityFramework.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\DAL\bin\Debug\EntityFramework.SqlServer.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\DAL\bin\Debug\EntityFramework.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\DAL\bin\Debug\EntityFramework.SqlServer.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\DAL\obj\Debug\DAL.csproj.Up2Date
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\DAL\obj\Debug\DAL.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\DAL\obj\Debug\DAL.pdb

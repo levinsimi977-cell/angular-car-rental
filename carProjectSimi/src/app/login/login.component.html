@@ -1,0 +1,35 @@
+<div class="page">
+  <div class="login-box">
+    <div class="brand-logo">Easy<span class="green">CARS</span></div>
+    <h2>כניסת משתמשים</h2>
+    
+    <div class="input-wrapper">
+      <input id="userId" placeholder="הכנס תעודת זהות" type="number" [(ngModel)]="newCustomer.id">
+    </div>
+    
+    <button class="cool-btn" (click)="checkId()">
+      האם אני רשום אצלכם?
+    </button>
+  </div>
+</div>
+
+<!-- Modal -->
+<div *ngIf="showModal" class="modal">
+  <div class="modal-content">
+    <h2>פרטי משתמש חדש</h2>
+    <form (ngSubmit)="submitNewCustomer()">
+      <div class="form-grid">
+        
+        <input [(ngModel)]="newCustomer.id" name="id" placeholder="תעודת זהות" required>
+        <input [(ngModel)]="newCustomer.firstName" name="firstName" placeholder="שם פרטי" required>
+        <input [(ngModel)]="newCustomer.lastName" name="lastName" placeholder="שם משפחה" required>
+        <input [(ngModel)]="newCustomer.email" name="email" type="email" placeholder="אימייל" required>
+        <input [(ngModel)]="newCustomer.address" name="address" placeholder="כתובת מלאה" required class="full-width">
+      </div>
+      <div class="modal-buttons">
+        <button class="cool-btn" type="submit">הרשמה מהירה</button>
+        <button class="close-btn" type="button" (click)="closeModal()">ביטול</button>
+      </div>
+    </form>
+  </div>
+</div>

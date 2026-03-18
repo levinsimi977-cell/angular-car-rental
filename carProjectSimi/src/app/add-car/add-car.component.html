@@ -1,0 +1,45 @@
+<div class="add-car-container">
+  <div class="add-car-box">
+    <div class="brand-logo">Easy<span class="green">CARS</span></div>
+    <h2>🚗 הוספת רכב חדש</h2>
+    
+    <form (ngSubmit)="saveCar()" #f="ngForm">
+      
+     
+      <div class="form-group">
+        <label>מספר מושבים:</label>
+        <input type="number" [(ngModel)]="newCar.numSeats" name="seats" #seatsVar="ngModel" required min="2" max="20">
+        <div *ngIf="seatsVar.invalid && seatsVar.touched" class="error-text">מספר מושבים בין 2 ל-20</div>
+      </div>
+
+      <div class="form-group">
+        <label>רמת רכב (1-5):</label>
+        <input type="number" [(ngModel)]="newCar.level" name="level" #levelVar="ngModel" required min="1" max="5">
+        <div *ngIf="levelVar.invalid && levelVar.touched" class="error-text">רמה חייבת להיות בין 1 ל-5</div>
+      </div>
+
+      <div class="form-group">
+        <label>מחיר ליום בודד:</label>
+        <input type="number" [(ngModel)]="newCar.priceForDay" name="p1" #p1Var="ngModel" required min="1">
+        <div *ngIf="p1Var.invalid && p1Var.touched" class="error-text">חובה להזין מחיר תקין</div>
+      </div>
+
+      <div class="form-group">
+        <label>מחיר ליום (3+ ימים):</label>
+        <input type="number" [(ngModel)]="newCar.priceForThreeDaysAndMore" name="p3" #p3Var="ngModel" required min="1">
+        <div *ngIf="p3Var.invalid && p3Var.touched" class="error-text">חובה להזין מחיר מוזל</div>
+      </div>
+
+      <button type="submit" class="submit-btn" [disabled]="!f.valid">
+        ✅ שמור רכב במערכת
+      </button>
+
+      <p *ngIf="f.submitted && !f.valid" class="error-msg">
+        * יש לתקן את השגיאות בטופס
+      </p>
+
+    </form>
+  </div>
+
+ 
+</div>

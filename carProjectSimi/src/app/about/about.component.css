@@ -1,0 +1,110 @@
+.about-wrapper {
+  direction: rtl;
+  font-family: 'Assistant', sans-serif;
+  padding: 40px 20px;
+}
+
+.hero-section {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.main-title {
+  font-size: 2.2rem;
+  color: #0F172A;
+  margin-bottom: 15px;
+  font-weight: 800;
+}
+
+.highlight {
+  color: #10B981;
+}
+
+.sub-title {
+  font-size: 1.1rem;
+  color: #64748B;
+  font-weight: 400;
+}
+
+.features-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+  max-width: 1200px;
+  margin: 0 auto 60px;
+}
+
+.feature-card {
+  background: #ffffff;
+  padding: 40px 25px;
+  border-radius: 20px;
+  text-align: center;
+  box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
+  border: 1px solid #E2E8F0;
+  transition: transform 0.3s;
+}
+
+.feature-card:hover {
+  transform: translateY(-8px);
+  border-color: #10B981;
+  box-shadow: 0 20px 25px -5px rgba(16, 185, 129, 0.1);
+}
+
+.feature-card .icon {
+  font-size: 3.5rem;
+  margin-bottom: 20px;
+  display: block;
+}
+
+.feature-card h3 {
+  font-size: 1.4rem;
+  color: #0F172A;
+  margin-bottom: 10px;
+  font-weight: 800;
+}
+
+.feature-card p {
+  color: #64748B;
+  line-height: 1.6;
+  font-size: 1rem;
+}
+
+.stats-bar {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  background: #0F172A;
+  color: white;
+  padding: 40px;
+  border-radius: 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+  box-shadow: 0 10px 25px -5px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.stat-item .number {
+  display: block;
+  font-size: 2.5rem;
+  font-weight: 800;
+  color: #10B981;
+  margin-bottom: 5px;
+}
+
+.stat-item .label {
+  font-size: 1rem;
+  color: #CBD5E1;
+}
+
+.stat-divider {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .about-wrapper { padding: 60px 20px; }
+  .main-title { font-size: 3.5rem; }
+  .sub-title { font-size: 1.4rem; }
+  .features-grid { grid-template-columns: repeat(3, 1fr); gap: 30px; }
+  .stats-bar { flex-direction: row; justify-content: space-around; padding: 50px; }
+  .stat-divider { display: block; width: 1px; height: 60px; background: rgba(255,255,255,0.1); }
+}

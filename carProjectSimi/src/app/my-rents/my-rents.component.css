@@ -1,0 +1,101 @@
+.my-rents-container {
+  max-width: 1100px;
+  margin: 20px auto;
+  padding: 25px 20px;
+  background: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
+  direction: rtl;
+  font-family: 'Assistant', sans-serif;
+}
+
+.my-rents-container h2 {
+  color: #0F172A;
+  font-weight: 800;
+  margin-bottom: 25px;
+  font-size: 1.8rem;
+  border-right: 4px solid #10B981;
+  padding-right: 15px;
+}
+
+.table-responsive {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  padding-bottom: 10px;
+}
+
+.luxury-table {
+  width: 100%;
+  min-width: 600px; /* Force table width for scrolling on mobile */
+  border-collapse: separate;
+  border-spacing: 0 10px;
+}
+
+.luxury-table th {
+  padding: 12px 20px;
+  text-align: right;
+  color: #64748B;
+  font-weight: 700;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+}
+
+.luxury-table tbody tr {
+  background: #F8FAFC;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.02);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.luxury-table td {
+  padding: 18px 20px;
+  border: none;
+  color: #1E293B;
+  font-weight: 600;
+}
+
+.luxury-table td:first-child { border-radius: 0 12px 12px 0; }
+.luxury-table td:last-child { border-radius: 12px 0 0 12px; }
+
+.luxury-table tr:hover {
+  transform: translateY(-2px);
+  background: #ffffff;
+  box-shadow: 0 10px 15px -3px rgba(0,0,0,0.05);
+}
+
+.order-badge {
+  background: #E2E8F0;
+  padding: 6px 12px;
+  border-radius: 8px;
+  font-family: monospace;
+  color: #0F172A;
+}
+
+.goal-tag {
+  background: #ECFDF5;
+  color: #059669;
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  display: inline-block;
+}
+
+.state-message {
+  text-align: center;
+  padding: 60px 20px;
+  font-size: 1.2rem;
+  color: #64748B;
+  background: #F8FAFC;
+  border-radius: 16px;
+}
+
+.state-message .icon {
+  display: block;
+  font-size: 3rem;
+  margin-bottom: 15px;
+}
+
+@media (min-width: 768px) {
+  .my-rents-container { margin: 40px auto; padding: 40px; }
+  .my-rents-container h2 { font-size: 2.2rem; }
+}

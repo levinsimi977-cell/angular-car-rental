@@ -1,0 +1,95 @@
+.add-car-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.add-car-box {
+  background: white;
+  padding: 30px 20px;
+  width: 100%;
+  max-width: 500px;
+  border-radius: 20px;
+  box-shadow: 0 10px 25px -5px rgba(0,0,0,0.05);
+  direction: rtl;
+  font-family: 'Assistant', sans-serif;
+  border: 1px solid #E2E8F0;
+}
+
+.add-car-box h2 {
+  text-align: center;
+  color: #0F172A;
+  margin-bottom: 25px;
+  font-weight: 800;
+  font-size: 1.6rem;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: #475569;
+  font-size: 0.95rem;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 14px 16px;
+  border: 1px solid #CBD5E1;
+  border-radius: 12px;
+  font-size: 1rem;
+  transition: all 0.2s;
+  background: #F8FAFC;
+  box-sizing: border-box;
+}
+
+.form-group input:focus {
+  outline: none;
+  border-color: #10B981;
+  background: white;
+  box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.1);
+}
+
+.submit-btn {
+  width: 100%;
+  background: #10B981;
+  color: white;
+  padding: 15px;
+  border: none;
+  border-radius: 12px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s;
+  margin-top: 15px;
+}
+
+.submit-btn:hover:not(:disabled) {
+  background: #059669;
+  transform: translateY(-2px);
+  box-shadow: 0 10px 15px -3px rgba(16, 185, 129, 0.3);
+}
+
+.submit-btn:disabled {
+  background: #94A3B8;
+  cursor: not-allowed;
+}
+
+.error-msg {
+  color: #EF4444;
+  font-size: 0.85rem;
+  text-align: center;
+  margin-top: 15px;
+  font-weight: 600;
+}
+
+@media (min-width: 768px) {
+  .add-car-container { padding: 40px; }
+  .add-car-box { padding: 40px; }
+  .add-car-box h2 { font-size: 2rem; }
+}

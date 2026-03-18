@@ -1,0 +1,116 @@
+.appbar {
+  background: #0F172A;
+  color: white;
+  padding: 15px 20px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  font-family: 'Assistant', sans-serif;
+  direction: rtl;
+}
+
+.appbar-content {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+  max-width: 1400px;
+  margin: auto;
+}
+
+.appbar-title {
+  font-size: 1.8rem;
+  font-weight: 800;
+  letter-spacing: -0.5px;
+}
+
+.green { 
+  color: #10B981;
+}
+
+.navbar-links {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  gap: 15px;
+  align-items: center;
+}
+
+.nav-main-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+.nav-main-links a {
+  color: #CBD5E1;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  padding: 8px 16px;
+  border-radius: 10px;
+  transition: all 0.3s ease;
+}
+
+.nav-main-links a:hover, .nav-main-links a.active {
+  background: rgba(16, 185, 129, 0.15);
+  color: #10B981;
+}
+
+.admin-link {
+  border: 1px dashed #10B981;
+}
+
+.user-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding-top: 15px;
+  border-top: 1px solid rgba(255,255,255,0.1);
+  width: 100%;
+}
+
+.welcome-msg {
+  font-weight: 400;
+  color: #94A3B8;
+  margin-left: 10px;
+}
+
+.nav-button {
+  background: rgba(255,255,255,0.1);
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.nav-button:hover { background: rgba(255,255,255,0.2); }
+
+.nav-button.logout {
+  background: rgba(239, 68, 68, 0.1);
+  color: #EF4444;
+}
+
+.nav-button.logout:hover {
+  background: #EF4444;
+  color: white;
+}
+
+.main-content {
+  background: #F8FAFC;
+  min-height: calc(100vh - 80px);
+}
+
+@media (min-width: 1024px) {
+  .appbar { padding: 0 40px; height: 80px; display: flex; align-items: center; }
+  .appbar-content { flex-direction: row; justify-content: space-between; height: 100%; gap: 0; }
+  .navbar-links { flex-direction: row; width: auto; gap: 30px; }
+  .user-actions { border-top: none; padding-top: 0; width: auto; padding-right: 30px; border-right: 1px solid rgba(255,255,255,0.1); margin-right: 10px; }
+}

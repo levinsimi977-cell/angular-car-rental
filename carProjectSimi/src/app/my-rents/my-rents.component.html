@@ -1,0 +1,36 @@
+<div class="my-rents-container">
+  <h2>היסטוריית ההזמנות שלי</h2>
+
+  <div *ngIf="loading" class="state-message loader">
+    <span class="icon">⏳</span>
+    טוען נתונים...
+  </div>
+
+  <div *ngIf="!loading && myRents.length === 0" class="state-message no-data">
+    <span class="icon">🚗</span>
+    טרם ביצעת הזמנות במערכת.
+  </div>
+
+  <div class="table-responsive" *ngIf="!loading && myRents.length > 0">
+    <table class="luxury-table">
+      <thead>
+        <tr>
+          <th>קוד הזמנה</th>
+          <th>קוד רכב</th>
+          <th>תאריך התחלה</th>
+          <th>תאריך סיום</th>
+          <th>תיאור/מטרה</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let rent of myRents">
+          <td><span class="order-badge">#{{rent.code}}</span></td>
+          <td>{{rent.codeCar}}</td>
+          <td>{{rent.startDate | date:'dd/MM/yyyy'}}</td>
+          <td>{{rent.endDate | date:'dd/MM/yyyy'}}</td>
+          <td><span class="goal-tag">{{rent.goal}}</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

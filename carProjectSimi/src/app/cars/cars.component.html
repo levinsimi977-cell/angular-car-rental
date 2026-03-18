@@ -1,0 +1,29 @@
+<div class="car-card">
+  <div class="level-tag">LEVEL {{car?.level}}</div>
+
+  <div class="car-main-content">
+    <div class="car-visual-container">
+      🚗
+    </div>
+
+    <div class="car-info">
+      <h3>רכב {{car?.numSeats}} מושבים</h3>
+      <p>נוחות מקסימלית • זמין מיידית</p>
+    </div>
+
+    <div class="pricing-grid">
+      <div class="price-box">
+        <span class="p-label">מחיר יומי</span>
+        <span class="p-value">₪{{car?.priceForDay}}</span>
+      </div>
+      <div class="price-box promo">
+        <span class="p-label">3 ימים ומעלה</span>
+        <span class="p-value">₪{{car?.priceForThreeDaysAndMore}}</span>
+      </div>
+    </div>
+    
+    <button class="order-btn" (click)="rentCar()">
+      הזמן עכשיו
+    </button>
+  </div>
+</div>

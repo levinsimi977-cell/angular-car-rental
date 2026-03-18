@@ -1,0 +1,1287 @@
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\API.dll.config
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\API.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\API.pdb
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\csc.exe
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\csc.exe.config
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\csc.rsp
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\csi.exe
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\csi.exe.config
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\csi.rsp
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\Microsoft.CSharp.Core.targets
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\Microsoft.Managed.Core.targets
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\System.AppContext.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\System.Collections.Immutable.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\System.Console.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\System.Globalization.Calendars.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\System.IO.Compression.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\System.IO.FileSystem.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\System.Net.Http.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\System.Net.Sockets.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\System.Reflection.Metadata.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\System.ValueTuple.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\System.Xml.ReaderWriter.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\System.Xml.XmlDocument.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\System.Xml.XPath.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\vbc.exe
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\vbc.exe.config
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\vbc.rsp
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\VBCSCompiler.exe
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\roslyn\VBCSCompiler.exe.config
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Antlr3.Runtime.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.Web.Infrastructure.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Newtonsoft.Json.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Net.Http.Formatting.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Web.Helpers.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Web.Http.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Web.Http.WebHost.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Web.Mvc.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Web.Optimization.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Web.Razor.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Web.WebPages.Deployment.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Web.WebPages.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Web.WebPages.Razor.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\WebGrease.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Newtonsoft.Json.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Net.Http.Formatting.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Web.Helpers.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Web.Http.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Web.Http.WebHost.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Web.Mvc.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Web.Optimization.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Web.Razor.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Web.WebPages.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Web.WebPages.Deployment.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Web.WebPages.Razor.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Antlr3.Runtime.pdb
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\obj\Debug\API.csproj.AssemblyReference.cache
+T:\Group B\Angular\סימי לוין\CarsSimi\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+T:\Group B\Angular\סימי לוין\CarsSimi\API\obj\Debug\API.csproj.Up2Date
+T:\Group B\Angular\סימי לוין\CarsSimi\API\obj\Debug\API.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\obj\Debug\API.pdb
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\CarsDB.mdf
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\CarsDB_log.ldf
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\BL.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Authentication.Core.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Authorization.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Cors.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Http.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Features.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Core.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Routing.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.WebUtilities.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.DotNet.PlatformAbstractions.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.Extensions.DependencyInjection.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.Extensions.DependencyModel.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.Extensions.Diagnostics.Abstractions.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.Extensions.ObjectPool.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.Extensions.Options.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.Extensions.Primitives.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.Net.Http.Headers.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.Owin.Cors.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.Owin.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Newtonsoft.Json.Bson.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Owin.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Buffers.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Diagnostics.DiagnosticSource.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Memory.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Numerics.Vectors.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Runtime.CompilerServices.Unsafe.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Text.Encodings.Web.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Threading.Tasks.Extensions.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.ValueTuple.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Web.Cors.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Web.Http.Cors.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\DAL.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\EntityFramework.dll
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\BL.pdb
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Authentication.Core.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Authorization.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Cors.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Http.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Features.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Core.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Routing.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.AspNetCore.WebUtilities.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.Extensions.DependencyInjection.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.Extensions.Diagnostics.Abstractions.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.Extensions.ObjectPool.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.Extensions.Options.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.Extensions.Primitives.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.Net.Http.Headers.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.Owin.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Microsoft.Owin.Cors.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Newtonsoft.Json.Bson.pdb
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\Newtonsoft.Json.Bson.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Buffers.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Diagnostics.DiagnosticSource.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Memory.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Numerics.Vectors.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Runtime.CompilerServices.Unsafe.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Text.Encodings.Web.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Threading.Tasks.Extensions.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.ValueTuple.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\System.Web.Http.Cors.xml
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\DAL.pdb
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\DAL.dll.config
+T:\Group B\Angular\סימי לוין\CarsSimi\API\bin\EntityFramework.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\CarsDB.mdf
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\CarsDB_log.ldf
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\API.dll.config
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\API.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\API.pdb
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\csc.exe
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\csc.exe.config
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\csc.rsp
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\csi.exe
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\csi.exe.config
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\csi.rsp
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\Microsoft.CSharp.Core.targets
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\Microsoft.Managed.Core.targets
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\System.AppContext.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\System.Collections.Immutable.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\System.Console.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\System.Globalization.Calendars.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\System.IO.Compression.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\System.IO.FileSystem.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\System.Net.Http.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\System.Net.Sockets.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\System.Reflection.Metadata.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\System.ValueTuple.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\System.Xml.ReaderWriter.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\System.Xml.XmlDocument.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\System.Xml.XPath.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\vbc.exe
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\vbc.exe.config
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\vbc.rsp
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\VBCSCompiler.exe
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\roslyn\VBCSCompiler.exe.config
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Antlr3.Runtime.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\BL.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\EntityFramework.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\EntityFramework.SqlServer.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Authentication.Core.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Authorization.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Cors.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Http.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Features.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Core.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Routing.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.WebUtilities.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.DotNet.PlatformAbstractions.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.Extensions.DependencyInjection.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.Extensions.DependencyModel.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.Extensions.Diagnostics.Abstractions.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.Extensions.ObjectPool.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.Extensions.Options.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.Extensions.Primitives.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.Net.Http.Headers.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.Owin.Cors.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.Owin.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.Web.Infrastructure.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Newtonsoft.Json.Bson.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Newtonsoft.Json.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Owin.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Buffers.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Diagnostics.DiagnosticSource.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Memory.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Net.Http.Formatting.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Numerics.Vectors.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Runtime.CompilerServices.Unsafe.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Text.Encodings.Web.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Threading.Tasks.Extensions.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.ValueTuple.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Web.Cors.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Web.Helpers.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Web.Http.Cors.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Web.Http.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Web.Http.WebHost.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Web.Mvc.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Web.Optimization.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Web.Razor.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Web.WebPages.Deployment.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Web.WebPages.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Web.WebPages.Razor.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\WebGrease.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\DAL.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\BL.pdb
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\EntityFramework.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\EntityFramework.SqlServer.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Authentication.Core.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Authorization.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Cors.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Http.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Features.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Core.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Routing.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.AspNetCore.WebUtilities.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.Extensions.DependencyInjection.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.Extensions.Diagnostics.Abstractions.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.Extensions.ObjectPool.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.Extensions.Options.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.Extensions.Primitives.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.Net.Http.Headers.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.Owin.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.Owin.Cors.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Newtonsoft.Json.Bson.pdb
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Newtonsoft.Json.Bson.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Buffers.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Diagnostics.DiagnosticSource.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Memory.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Net.Http.Formatting.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Numerics.Vectors.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Runtime.CompilerServices.Unsafe.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Text.Encodings.Web.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Threading.Tasks.Extensions.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.ValueTuple.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Web.Helpers.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Web.Http.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Web.Http.Cors.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Web.Http.WebHost.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Web.Mvc.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Web.Razor.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Web.WebPages.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Web.WebPages.Deployment.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Web.WebPages.Razor.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Newtonsoft.Json.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\System.Web.Optimization.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Antlr3.Runtime.pdb
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\DAL.pdb
+T:\Group B\Angular\Teacher\CarsSimi\API\bin\DAL.dll.config
+T:\Group B\Angular\Teacher\CarsSimi\API\obj\Debug\API.csproj.AssemblyReference.cache
+T:\Group B\Angular\Teacher\CarsSimi\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+T:\Group B\Angular\Teacher\CarsSimi\API\obj\Debug\API.csproj.Up2Date
+T:\Group B\Angular\Teacher\CarsSimi\API\obj\Debug\API.dll
+T:\Group B\Angular\Teacher\CarsSimi\API\obj\Debug\API.pdb
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\CarsDB.mdf
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\CarsDB_log.ldf
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\API.dll.config
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\API.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\API.pdb
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\csc.exe
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\csc.exe.config
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\csc.rsp
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\csi.exe
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\csi.exe.config
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\csi.rsp
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.CSharp.Core.targets
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.Managed.Core.targets
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.AppContext.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Collections.Immutable.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Console.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Globalization.Calendars.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.IO.Compression.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.IO.FileSystem.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Net.Http.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Net.Sockets.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Reflection.Metadata.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.ValueTuple.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Xml.ReaderWriter.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Xml.XmlDocument.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Xml.XPath.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\vbc.exe
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\vbc.exe.config
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\vbc.rsp
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\VBCSCompiler.exe
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\VBCSCompiler.exe.config
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Antlr3.Runtime.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\BL.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\EntityFramework.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\EntityFramework.SqlServer.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authentication.Core.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authorization.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Cors.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Features.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Core.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Routing.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.WebUtilities.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.DotNet.PlatformAbstractions.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.DependencyInjection.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.DependencyModel.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Diagnostics.Abstractions.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.ObjectPool.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Options.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Primitives.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Net.Http.Headers.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Owin.Cors.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Owin.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Web.Infrastructure.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Newtonsoft.Json.Bson.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Newtonsoft.Json.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Owin.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Buffers.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Diagnostics.DiagnosticSource.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Memory.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Net.Http.Formatting.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Numerics.Vectors.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Runtime.CompilerServices.Unsafe.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Text.Encodings.Web.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Threading.Tasks.Extensions.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.ValueTuple.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Cors.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Helpers.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Http.Cors.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Http.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Http.WebHost.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Mvc.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Optimization.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Razor.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.WebPages.Deployment.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.WebPages.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.WebPages.Razor.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\WebGrease.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\DAL.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\BL.pdb
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\EntityFramework.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\EntityFramework.SqlServer.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authentication.Core.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authorization.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Cors.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Features.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Core.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Routing.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.WebUtilities.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.DependencyInjection.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Diagnostics.Abstractions.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.ObjectPool.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Options.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Primitives.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Net.Http.Headers.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Owin.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Owin.Cors.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Newtonsoft.Json.Bson.pdb
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Newtonsoft.Json.Bson.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Buffers.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Diagnostics.DiagnosticSource.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Memory.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Net.Http.Formatting.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Numerics.Vectors.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Runtime.CompilerServices.Unsafe.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Text.Encodings.Web.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Threading.Tasks.Extensions.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.ValueTuple.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Helpers.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Http.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Http.Cors.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Http.WebHost.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Mvc.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Razor.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.WebPages.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.WebPages.Deployment.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.WebPages.Razor.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Newtonsoft.Json.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Optimization.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Antlr3.Runtime.pdb
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\DAL.pdb
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\bin\DAL.dll.config
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\obj\Debug\API.csproj.AssemblyReference.cache
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\obj\Debug\API.csproj.Up2Date
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\obj\Debug\API.dll
+T:\Group B\Angular\סימי לוין\מסד נתונים לרכב\CarsSimi\API\obj\Debug\API.pdb
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\CarsDB.mdf
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\CarsDB_log.ldf
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\API.dll.config
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\API.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\API.pdb
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\csc.exe
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\csc.exe.config
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\csc.rsp
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\csi.exe
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\csi.exe.config
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\csi.rsp
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.AppContext.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Collections.Immutable.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Console.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Globalization.Calendars.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.IO.Compression.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.IO.FileSystem.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Net.Http.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Net.Sockets.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Reflection.Metadata.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.ValueTuple.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Xml.XPath.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\vbc.exe
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\vbc.exe.config
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\vbc.rsp
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\VBCSCompiler.exe
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\VBCSCompiler.exe.config
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Antlr3.Runtime.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\BL.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\EntityFramework.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\EntityFramework.SqlServer.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authorization.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Cors.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Routing.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.DependencyModel.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.ObjectPool.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Options.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Primitives.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Net.Http.Headers.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Owin.Cors.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Owin.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Web.Infrastructure.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Newtonsoft.Json.Bson.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Newtonsoft.Json.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Owin.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Buffers.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Diagnostics.DiagnosticSource.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Memory.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Net.Http.Formatting.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Numerics.Vectors.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Text.Encodings.Web.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Threading.Tasks.Extensions.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.ValueTuple.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Cors.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Helpers.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Http.Cors.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Http.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Http.WebHost.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Mvc.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Optimization.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Razor.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.WebPages.Deployment.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.WebPages.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.WebPages.Razor.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\WebGrease.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\DAL.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\BL.pdb
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\EntityFramework.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\EntityFramework.SqlServer.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authorization.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Cors.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Routing.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Diagnostics.Abstractions.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.ObjectPool.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Options.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Primitives.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Net.Http.Headers.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Owin.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Owin.Cors.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Newtonsoft.Json.Bson.pdb
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Newtonsoft.Json.Bson.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Buffers.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Diagnostics.DiagnosticSource.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Memory.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Net.Http.Formatting.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Numerics.Vectors.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Text.Encodings.Web.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Threading.Tasks.Extensions.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.ValueTuple.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Helpers.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Http.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Http.Cors.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Http.WebHost.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Mvc.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Razor.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.WebPages.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.WebPages.Deployment.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.WebPages.Razor.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Newtonsoft.Json.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Optimization.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Antlr3.Runtime.pdb
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\DAL.pdb
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\DAL.dll.config
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\obj\Debug\API.csproj.AssemblyReference.cache
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\obj\Debug\API.csproj.Up2Date
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\obj\Debug\API.dll
+D:\רכב!!!\מסד נתונים לרכב\CarsSimi\API\obj\Debug\API.pdb
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\API.dll.config
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\API.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\API.pdb
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\csc.exe
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\csc.exe.config
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\csc.rsp
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\csi.exe
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\csi.exe.config
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\csi.rsp
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.CSharp.Core.targets
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.Managed.Core.targets
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.AppContext.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Collections.Immutable.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Console.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Globalization.Calendars.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.IO.Compression.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.IO.FileSystem.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Net.Http.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Net.Sockets.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Reflection.Metadata.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.ValueTuple.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Xml.ReaderWriter.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Xml.XmlDocument.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Xml.XPath.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\vbc.exe
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\vbc.exe.config
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\vbc.rsp
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\VBCSCompiler.exe
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\VBCSCompiler.exe.config
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Antlr3.Runtime.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\BL.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\EntityFramework.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\EntityFramework.SqlServer.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authentication.Core.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authorization.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Cors.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Features.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Core.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Routing.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.WebUtilities.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.DotNet.PlatformAbstractions.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.DependencyInjection.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.DependencyModel.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Diagnostics.Abstractions.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.ObjectPool.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Options.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Primitives.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Net.Http.Headers.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Owin.Cors.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Owin.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Web.Infrastructure.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Newtonsoft.Json.Bson.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Newtonsoft.Json.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Owin.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Buffers.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Diagnostics.DiagnosticSource.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Memory.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Net.Http.Formatting.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Numerics.Vectors.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Runtime.CompilerServices.Unsafe.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Text.Encodings.Web.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Threading.Tasks.Extensions.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.ValueTuple.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Cors.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Helpers.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Http.Cors.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Http.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Http.WebHost.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Mvc.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Optimization.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Razor.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.WebPages.Deployment.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.WebPages.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.WebPages.Razor.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\WebGrease.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\DAL.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\BL.pdb
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\EntityFramework.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\EntityFramework.SqlServer.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authentication.Core.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authorization.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Cors.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Features.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Core.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Routing.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.WebUtilities.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.DependencyInjection.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Diagnostics.Abstractions.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.ObjectPool.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Options.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Primitives.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Net.Http.Headers.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Owin.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Owin.Cors.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Newtonsoft.Json.Bson.pdb
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Newtonsoft.Json.Bson.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Buffers.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Diagnostics.DiagnosticSource.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Memory.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Net.Http.Formatting.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Numerics.Vectors.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Runtime.CompilerServices.Unsafe.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Text.Encodings.Web.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Threading.Tasks.Extensions.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.ValueTuple.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Helpers.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Http.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Http.Cors.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Http.WebHost.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Mvc.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Razor.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.WebPages.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.WebPages.Deployment.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.WebPages.Razor.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Newtonsoft.Json.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Optimization.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Antlr3.Runtime.pdb
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\DAL.pdb
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\bin\DAL.dll.config
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\obj\Debug\API.csproj.AssemblyReference.cache
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\obj\Debug\API.csproj.Up2Date
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\obj\Debug\API.dll
+T:\Group B\Angular\סימי לוין\רכב!!!\מסד נתונים לרכב\CarsSimi\API\obj\Debug\API.pdb
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\API.dll.config
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\API.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\API.pdb
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\csc.exe
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\csc.exe.config
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\csc.rsp
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\csi.exe
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\csi.exe.config
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\csi.rsp
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.AppContext.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Collections.Immutable.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Console.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Globalization.Calendars.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.IO.Compression.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.IO.FileSystem.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Net.Http.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Net.Sockets.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Reflection.Metadata.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.ValueTuple.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Xml.XPath.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\vbc.exe
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\vbc.exe.config
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\vbc.rsp
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\VBCSCompiler.exe
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\VBCSCompiler.exe.config
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Antlr3.Runtime.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\BL.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\EntityFramework.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\EntityFramework.SqlServer.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authorization.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Cors.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Routing.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.DependencyModel.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.ObjectPool.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Options.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Primitives.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Net.Http.Headers.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Owin.Cors.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Owin.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Web.Infrastructure.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Newtonsoft.Json.Bson.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Newtonsoft.Json.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Owin.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Buffers.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Diagnostics.DiagnosticSource.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Memory.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Net.Http.Formatting.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Numerics.Vectors.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Text.Encodings.Web.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Threading.Tasks.Extensions.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.ValueTuple.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Cors.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Helpers.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Http.Cors.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Http.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Http.WebHost.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Mvc.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Optimization.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Razor.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.WebPages.Deployment.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.WebPages.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.WebPages.Razor.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\WebGrease.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\DAL.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\BL.pdb
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\EntityFramework.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\EntityFramework.SqlServer.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authorization.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Cors.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Routing.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Diagnostics.Abstractions.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.ObjectPool.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Options.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Primitives.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Net.Http.Headers.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Owin.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Owin.Cors.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Newtonsoft.Json.Bson.pdb
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Newtonsoft.Json.Bson.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Buffers.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Diagnostics.DiagnosticSource.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Memory.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Net.Http.Formatting.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Numerics.Vectors.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Text.Encodings.Web.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Threading.Tasks.Extensions.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.ValueTuple.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Helpers.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Http.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Http.Cors.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Http.WebHost.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Mvc.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Razor.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.WebPages.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.WebPages.Deployment.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.WebPages.Razor.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Newtonsoft.Json.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Optimization.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Antlr3.Runtime.pdb
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\DAL.pdb
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\bin\DAL.dll.config
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\obj\Debug\API.csproj.AssemblyReference.cache
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\obj\Debug\API.csproj.Up2Date
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\obj\Debug\API.dll
+D:\אנגולר\ט אדר\ז אדר\מסד נתונים לרכב\CarsSimi\API\obj\Debug\API.pdb
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\API.dll.config
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\API.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\API.pdb
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\csc.exe
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\csc.exe.config
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\csc.rsp
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\csi.exe
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\csi.exe.config
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\csi.rsp
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.AppContext.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Console.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\vbc.exe
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\vbc.exe.config
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\vbc.rsp
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Antlr3.Runtime.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\BL.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\EntityFramework.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Options.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Owin.Cors.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Owin.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Newtonsoft.Json.Bson.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Owin.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Buffers.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Memory.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Numerics.Vectors.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Text.Encodings.Web.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.ValueTuple.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Cors.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Helpers.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Http.Cors.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Http.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Mvc.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Optimization.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Razor.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.WebPages.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\WebGrease.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\DAL.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\BL.pdb
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\EntityFramework.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Diagnostics.Abstractions.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Options.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Owin.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.Owin.Cors.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Newtonsoft.Json.Bson.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Buffers.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Memory.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Numerics.Vectors.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Text.Encodings.Web.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.ValueTuple.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Helpers.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Http.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Http.Cors.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Mvc.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Razor.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.WebPages.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\System.Web.Optimization.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Antlr3.Runtime.pdb
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\DAL.pdb
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\bin\DAL.dll.config
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\obj\Debug\API.csproj.AssemblyReference.cache
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\obj\Debug\API.csproj.Up2Date
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\obj\Debug\API.dll
+C:\Users\User\Documents\simi_levin\Angular\מסד נתונים לרכב\CarsSimi\API\obj\Debug\API.pdb

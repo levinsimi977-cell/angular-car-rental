@@ -1,0 +1,25 @@
+<header class="appbar">
+  <div class="appbar-content">
+    <div class="brand-section">
+      <span class="appbar-title">Easy<span class="green">CARS</span></span>
+    </div>
+    
+    <nav class="navbar-links">
+      <div class="nav-main-links">
+        <a routerLink="/dashboard/displayCars" routerLinkActive="active">ראשי</a>
+        <a routerLink="/dashboard/about" routerLinkActive="active">אודות</a>
+        <a routerLink="/dashboard/contact" routerLinkActive="active">צור קשר</a>
+        <a *ngIf="isAdmin" routerLink="/dashboard/addCar" routerLinkActive="active" class="admin-link">➕ הוספת רכב</a>
+      </div>
+      
+      <div class="user-actions">
+        <span class="welcome-msg">שלום, {{userName}}!</span>
+        <button class="nav-button" (click)="viewMyRents()">ההזמנות שלי</button>
+        <button class="nav-button logout" (click)="logout()">התנתק</button>
+      </div>
+    </nav>
+  </div>
+</header>
+<main class="main-content">
+  <router-outlet></router-outlet>
+</main>
